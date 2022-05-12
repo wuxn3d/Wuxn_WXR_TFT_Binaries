@@ -7,7 +7,7 @@ This repository contains the binaries and download instructions of the firmware 
 The latest TFT firmware drivers can be downloaded from our website www.wuxn3d.com.
 ___________________________________________________________________________________________________________________________________________________________
 
-FIRMWARE_VERSION "Wuxn_TFT_BETA_0429"
+FIRMWARE_VERSION "Wuxn_TFT_BETA_0429":
 
 *** REQUIRES INSTALLATION OF NEW MARLIN BITS: "firmware.bin", found on "Wuxn_WXR_Marlin_Binaries" Github Page. ***
 https://github.com/wuxn3d/Wuxn_WXR_Marlin_Binaries 
