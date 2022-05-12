@@ -4,7 +4,7 @@ ________________________________________________________________________________
 # Wuxn_WXR_TFT_Binaries
 
 This repository contains the binaries and download instructions of the firmware running on the Wuxn WXR TFT display.
-The latest TFT firmware drivers can be downloaded from our website www.wuxn3d.com
+The latest TFT firmware drivers can be downloaded from our website www.wuxn3d.com.
 ___________________________________________________________________________________________________________________________________________________________
 
 FIRMWARE_VERSION "Wuxn_TFT_BETA_0429"
