@@ -13,9 +13,9 @@ FIRMWARE_VERSION "Wuxn_TFT_BETA_0429"
 *** https://github.com/wuxn3d/Wuxn_WXR_Marlin_Firmware/releases/tag/BETA_0429***
 
 *** Updates ***
->Filament runout and filament change menus have been improved
->Switch Debounce has been improved for wider fingers
->Back button functionality improved (TFT menu work flow)
++Filament runout and filament change menus have been improved
++Switch Debounce has been improved for wider fingers
++Back button functionality improved (TFT menu work flow)
 
 Please download the "042922_B TFT Beta Candidate OOBWCW OFF Extract to SD card.zip" and extract the files. Then follow the installation instructions "TFT and Marlin Controller board F_W update procedures.pdf".
 
